@@ -67,6 +67,6 @@ Outil d’audit automatique de sécurité cloud (configurations, règles réseau
 ## 🌐 Me contacter
 
 - 💼 LinkedIn : [www.linkedin.com/in/luc-jean-jules-ndognjee-☁-b4797b108)
-- ✉️ Email : ndognjeejules.com
+- ✉️ Email : ndognjeejules@gmail.com
 
 ---
