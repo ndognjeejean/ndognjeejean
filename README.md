@@ -34,10 +34,6 @@
 - 📚 Always learning and experimenting in my free time
 
 
-## 📊 Statistiques GitHub
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -49,7 +45,7 @@
 
 ## 🌐 Me contacter
 
-- 💼 LinkedIn : [www.linkedin.com/in/luc-jean-jules-ndognjee-☁-b4797b108)
+- 💼 LinkedIn : www.linkedin.com/in/luc-jean-jules-ndognjee-☁-b4797b108)
 - ✉️ Email : ndognjeejules@gmail.com
 
 ---
