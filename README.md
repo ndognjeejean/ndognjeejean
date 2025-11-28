@@ -39,8 +39,3 @@
   <img src="https://streak-stats.demolab.com?user=jules&hide_border=true" height="180"/>
 </p>
 
----
-
-
-
----
