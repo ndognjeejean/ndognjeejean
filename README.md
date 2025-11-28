@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About me
 
 - 🔧 **Languages and tools** : 
 
