@@ -36,11 +36,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jules&show_icons=true&hide_border=true&count_private=true" height="180"/>
-</p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=jules&hide_border=true" height="180"/>
 </p>
 
