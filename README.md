@@ -32,9 +32,6 @@
 - 📚 Always learning and experimenting in my free time
 
 
-## 📊 GitHub Stats
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jules&hide_border=true" height="180"/>
 </p>
