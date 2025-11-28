@@ -1,5 +1,5 @@
 <!-- TITLE & SHORT INTRO -->
-<h1 align="center">👋 Salut, moi c'est Jules</h1>
+<h1 align="center">👋 Hello, I am Jules</h1>
 
 <p align="center">
   <b>DevOps & Cloud Engineer • IA & Cybersecurity Enthusiast</b><br/>
@@ -18,7 +18,7 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ndognjeejeanE&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
