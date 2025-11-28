@@ -8,8 +8,6 @@
 
 ---
 
-## 🚀 About me
-
 - 🔧 **Languages and tools** : 
 
 ## 🧰 Tech Stack
@@ -41,23 +39,8 @@
   <img src="https://streak-stats.demolab.com?user=jules&hide_border=true" height="180"/>
 </p>
 
-
-
 ---
 
-## 🌐 Me contacter
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/luc-jean-jules-ndognjee-☁-b4797b108" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:ndognjeejules@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/>
-  </a>
-</p>
 
 
 ---
