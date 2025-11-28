@@ -23,10 +23,7 @@
   <!-- Containers & Orchestration -->
   <a href="https://kubernetes.io/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes"/></a>
   <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/></a>
-  <a href="https://helm.sh/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="50" alt="Helm"/></a> <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="Terraform"/></a> <a href="https://docs.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" alt="Ansible"/></a>
-
-  <!-- Clouds -->
-  <a href="https://learn.microsoft.com/azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure"/></a>
+  <a href="https://helm.sh/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="50" alt="Helm"/></a> <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="Terraform"/></a> <a href="https://docs.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" alt="Ansible"/></a> <a href="https://learn.microsoft.com/azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure"/></a>
   <a href="https://docs.aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="AWS"/></a>
   <a href="https://cloud.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="GCP"/></a>
 
