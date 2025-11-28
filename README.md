@@ -32,20 +32,7 @@
   <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/></a>
   <a href="https://scikit-learn.org/stable/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-learn"/></a>
   <a href="https://jupyter.org/documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter"/></a>
-  <a href="https://mlflow.org/docs/latest/"><img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" height="50" alt="MLflow"/></a>
-
-  <a href="https://owasp.org/www-project-top-ten/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Owasp_logo_black.svg" height="50" alt="OWASP"/></a>
-  <a href="https://www.openvas.org/"><img src="https://avatars.githubusercontent.com/u/33261885?s=200&v=4" height="50" alt="OpenVAS"/></a>
-
-  <!-- ======================== -->
-  <!-- 🗄️ Bases de données -->
-  <!-- ======================== -->
-
-  <a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/></a>
-  <a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/></a>
-  <a href="https://www.mongodb.com/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/></a>
-  <a href="https://redis.io/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis"/></a>
-  <a href="https://www.elastic.co/guide/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="ElasticSearch"/></a>
+  <a href="https://mlflow.org/docs/latest/"><img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" height="50" alt="MLflow"/></a> <a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/></a> <a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/></a> <a href="https://www.mongodb.com/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/></a> <a href="https://redis.io/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis"/></a> <a href="https://www.elastic.co/guide/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="ElasticSearch"/></a>
 
 </p>
 
