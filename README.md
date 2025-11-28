@@ -33,16 +33,7 @@
   <a href="https://scikit-learn.org/stable/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-learn"/></a>
   <a href="https://jupyter.org/documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter"/></a>
   <a href="https://mlflow.org/docs/latest/"><img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" height="50" alt="MLflow"/></a>
-  <a href="https://docs.nvidia.com/cuda/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" height="50" alt="CUDA"/></a>
 
-  <!-- ======================== -->
-  <!-- 🛡️ Cybersécurité -->
-  <!-- ======================== -->
-
-  <a href="https://www.kali.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="50" alt="Kali Linux"/></a>
-  <a href="https://www.metasploit.com/"><img src="https://avatars.githubusercontent.com/u/684353?s=200&v=4" height="50" alt="Metasploit"/></a>
-  <a href="https://nmap.org/book/man.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Nmap-logo.svg" height="50" alt="Nmap"/></a>
-  <a href="https://www.wireshark.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" height="50" alt="Wireshark"/></a>
   <a href="https://owasp.org/www-project-top-ten/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Owasp_logo_black.svg" height="50" alt="OWASP"/></a>
   <a href="https://www.openvas.org/"><img src="https://avatars.githubusercontent.com/u/33261885?s=200&v=4" height="50" alt="OpenVAS"/></a>
 
